@@ -5,7 +5,7 @@
   I'm <span style="color: #f39c12;">Udara Chamidu</span> 🚀
 </h1>
 
-<h3 align="center">🎮 Undergraduate Computer Engineer | Passionate about Tech and Gaming 🕹️</h3>
+<h3 align="center">🎮 Undergraduate Computer Engineer | Digital Creater 🕹️</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" />
