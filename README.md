@@ -1,26 +1,26 @@
 <h1 align="center">
-  🌟 Welcome to My Universe! 🌟  
+  🌟 Welcome to My World! 🌟  
   <br> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
   I'm <span style="color: #f39c12;">Udara Chamidu</span> 🚀
 </h1>
 
-<h3 align="center">🎮 Undergraduate Computer Engineer | Gamer | Creator 🕹️</h3>
+<h3 align="center">🎮 Undergraduate Computer Engineer | Passionate about Tech and Gaming 🕹️</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=👾+Code+Like+a+Gamer!+👾;🚀+Never+Stop+Leveling+Up!+🚀;🎮+Welcome+to+My+Tech+Playground!+🎮">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=👨‍💻+Code.+🚀+Innovate.+🎨+Create.+;Always+Learning.+💡+Always+Evolving.+;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udarachamidu&theme=radical&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=udarachamidu&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
 </div>
 
 ---
@@ -57,7 +57,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="800" />
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" width="600" />
 </div>
 
 ---
@@ -74,12 +74,12 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udarachamidu&show_icons=true&theme=merko" alt="Udara's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udarachamidu&theme=merko" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udarachamidu&show_icons=true&theme=tokyonight" alt="Udara's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udarachamidu&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udarachamidu&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udarachamidu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -96,16 +96,13 @@
 
 ### 🎯 Inspirational Quote:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=24&duration=3000&pause=800&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=Level+Up.;Keep+Gaming.;Code+Your+Dreams.">
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=24&duration=3000&pause=800&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=Dream+Big.;Learn+Every+Day.;Create+Something+Awesome.">
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="800" />
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
 </div>
 
 ---
 
-<div align="center">
-  <h3>✨ Thanks for visiting! Let's conquer the digital realms together! ✨</h3>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150" />
-</div>
+Feel free to copy this code. If you want further additions, just let me know! 🚀🎮✨
