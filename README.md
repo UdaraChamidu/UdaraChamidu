@@ -1,16 +1,32 @@
-<h1 align="center">Hi 👋, I'm Udara Chamidu</h1>
-<h3 align="center">🚀 Undergraduate Computer Engineer | Passionate Learner | Tech Enthusiast</h3>
+<h1 align="center">
+  🌟 Welcome to My World! 🌟  
+  <br> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
+  I'm <span style="color: #f39c12;">Udara Chamidu</span> 🚀
+</h1>
+
+<h3 align="center">🎮 Undergraduate Computer Engineer | Passionate about Tech and Gaming 🕹️</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" />
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udarachamidu&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=👨‍💻+Code.+🚀+Innovate.+🎨+Create.+;Always+Learning.+💡+Always+Evolving.+;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udarachamidu&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+</div>
+
+---
+
 ### 🌐 Connect with Me:
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/udara-herath" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -20,79 +36,73 @@
   <a href="https://fb.com/udara-chamidu" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
+</div>
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" alt="Python" />
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java" />
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js" alt="Node.js" />
   </a>
   <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" width="600" />
+</div>
+
+---
+
+### 🎮 Fun Corner:
+<div align="center">
+  <img src="https://img.shields.io/badge/Gamer%20Mode%20ON-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" alt="Gamer Mode" />
+  <br>
+  🎲 Currently playing: *Valorant, Dota 2, and Minecraft.* <br>
+  🎧 Favorite OST: *"Legends Never Die" from League of Legends.* 
+</div>
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udarachamidu&show_icons=true&theme=radical" alt="Udara's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udarachamidu&show_icons=true&theme=tokyonight" alt="Udara's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udarachamidu&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udarachamidu&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udarachamidu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udarachamidu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌱 About Me:
+<div align="center">
+  🌟 Exploring **AI and Machine Learning**. <br>
+  🛠️ Learning **Backend Development** and **Cloud Computing**. <br>
+  🤝 Open to collaborating on cool projects and research. <br>
+  🧠 Fun Fact: *"Sharing knowledge is my superpower!"*
+</div>
+
+---
+
+### 🎯 Inspirational Quote:
 <p align="center">
-  🌟 I’m currently exploring **AI, Machine Learning**, and **Data Science**. <br>
-  📖 I’m improving my skills in **Backend Development** and **Cloud Computing**. <br>
-  🤝 I’m open to collaborating on exciting projects and research. <br>
-  🧠 Fun Fact: **"I believe in learning by doing and sharing knowledge with others."**
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=24&duration=3000&pause=800&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=Dream+Big.;Learn+Every+Day.;Create+Something+Awesome.">
 </p>
 
----
-
-### 🎯 Fun Additions:
-- ✨ *Loves solving challenges on platforms like Kaggle and LeetCode.*
-- 🎨 *Enjoys UI/UX design and making intuitive interfaces.*
-- 🌍 *Advocate for Open Source Contribution.*
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
+</div>
 
 ---
 
-Feel free to copy and paste this! Let me know if you need more flair or elements! 🚀✨
+Feel free to copy this code. If you want further additions, just let me know! 🚀🎮✨
