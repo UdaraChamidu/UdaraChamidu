@@ -1,7 +1,7 @@
 # Udara-Chamidu
 
 <h1 align="center">Hi 👋, I'm Udara Chamidu</h1>
-<h3 align="center">An undergraduate Computer Engineer from India</h3>
+<h3 align="center">An undergraduate Computer Engineer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udarachamidu" alt="udarachamidu" /></a> </p>
 
