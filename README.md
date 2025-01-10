@@ -17,34 +17,47 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=👨‍💻+Code.+🚀+Innovate.+🎨+Create.+;Always+Learning.+💡+Always+Evolving.+;Welcome+to+my+GitHub+Profile!">
 </p>
 
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=udarachamidu&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/udara-herath" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://kaggle.com/udara-chamidu" target="_blank"><img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle"/></a>
-  <a href="https://fb.com/udara-chamidu" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="mailto:udarachamidu@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/udara-herath" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/udara-chamidu" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://fb.com/udara-chamidu" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" alt="Python" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js" alt="Node.js" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUOxf54shCTBwEsZqA/giphy.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" width="600" />
 </div>
 
 ---
@@ -55,10 +68,6 @@
   <br>
   🎲 Currently playing: *Valorant, Dota 2, and Minecraft.* <br>
   🎧 Favorite OST: *"Legends Never Die" from League of Legends.* 
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
 </div>
 
 ---
@@ -91,9 +100,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
 </div>
 
 ---
 
-Feel free to use and customize further! Let me know if you'd like more features added. 🚀🎮✨
+Feel free to copy this code. If you want further additions, just let me know! 🚀🎮✨
