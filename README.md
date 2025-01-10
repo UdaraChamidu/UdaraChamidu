@@ -10,22 +10,22 @@
 ---
 
 ### 🌐 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/udara-herath" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kaggle.com/udara-chamidu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://fb.com/udara-chamidu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
@@ -79,15 +79,20 @@
 ---
 
 ### 🌱 About Me:
-- 🌟 I’m currently exploring **AI, Machine Learning**, and **Data Science**.
-- 📖 I’m improving my skills in **Backend Development** and **Cloud Computing**.
-- 🤝 I’m open to collaborating on exciting projects and research.
+<p align="center">
+  🌟 I’m currently exploring **AI, Machine Learning**, and **Data Science**. <br>
+  📖 I’m improving my skills in **Backend Development** and **Cloud Computing**. <br>
+  🤝 I’m open to collaborating on exciting projects and research. <br>
+  🧠 Fun Fact: **"I believe in learning by doing and sharing knowledge with others."**
+</p>
 
 ---
 
-### 🏆 Fun Fact:
-"I believe in learning by doing and sharing knowledge with others."
+### 🎯 Fun Additions:
+- ✨ *Loves solving challenges on platforms like Kaggle and LeetCode.*
+- 🎨 *Enjoys UI/UX design and making intuitive interfaces.*
+- 🌍 *Advocate for Open Source Contribution.*
 
 ---
 
-Feel free to customize this version further to reflect your personality and interests better!
+Feel free to copy and paste this! Let me know if you need more flair or elements! 🚀✨
