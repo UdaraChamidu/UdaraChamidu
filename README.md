@@ -33,10 +33,10 @@
 
 ## 🛠️ Languages & Tools:
 <div align="left">
-Programming Languages : Python, C++, java
-Embedded Systems : ESP32, Arduino
-Mobile Development : Flutter, React Native
-Web Development : HTML, CSS, JavaScript, React, Node.js
+Programming Languages : Python, C++, java <br>
+Embedded Systems : ESP32, Arduino <br>
+Mobile Development : Flutter, React Native <br>
+Web Development : HTML, CSS, JavaScript, React, Node.js <br>
 Tools : Git, GitHub, VS Code, Figma
 </div>
 
