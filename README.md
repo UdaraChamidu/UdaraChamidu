@@ -5,11 +5,16 @@
   I'm <span style="color: #f39c12;">Udara Chamidu</span> 🚀
 </h1>
 
+---
+
 <h3 align="center">🎮 Undergraduate Computer Engineer | Digital Creater 🕹️</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" />
 </div>
+
+
+
 
 ---
 
@@ -17,6 +22,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=👨‍💻+Code.+🚀+Innovate.+🎨+Create.+;Always+Learning.+💡+Always+Evolving.+;Welcome+to+my+GitHub+Profile!">
 </p>
 
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
+</div>
 ---
 
 ### 🌱 About Me:
@@ -63,9 +72,7 @@ Tools : Git, GitHub, VS Code, Figma
   <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=24&duration=3000&pause=800&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=Dream+Big.;Learn+Every+Day.;Create+Something+Awesome.">
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
-</div>
+
 
 ---
 
