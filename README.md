@@ -13,9 +13,6 @@
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" />
 </div>
 
-
-
-
 ---
 
 <p align="center">
@@ -23,9 +20,11 @@
 </p>
 
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
 </div>
+
 ---
 
 ### 🌱 About Me:
@@ -36,9 +35,7 @@
   🧠 Fun Fact: "Sharing knowledge is my superpower!"
 </div>
 
-
 ---
-
 
 ## 🛠️ Languages & Tools:
 <div align="left">
@@ -71,8 +68,6 @@ Tools : Git, GitHub, VS Code, Figma
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=24&duration=3000&pause=800&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=Dream+Big.;Learn+Every+Day.;Create+Something+Awesome.">
 </p>
-
-
 
 ---
 
