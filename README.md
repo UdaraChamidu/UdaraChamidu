@@ -31,8 +31,11 @@
 <div align="center">
   🌟 Exploring AI, Machine Learning, Deep Learning <br>
   🛠️ Learning Backend Development <br>
+  🚀 Currently working on a React frontend project 
   🤝 Open to collaborating on cool projects and research. <br>
+  💻 Always learning and exploring new technologies <br>
   🧠 Fun Fact: "Sharing knowledge is my superpower!"
+  
 </div>
 
 ---
@@ -48,9 +51,16 @@ Tools : Git, GitHub, VS Code, Google colab, Jupyter
 
 ## 🔭 Current Focus:
 - Working on the Smart Railway Gate Control System project.
+- Working on a React frontend project to enhance UI/UX skills.
 - Learning frontend development with React.
-- Doing some ML and DL projects
-- Exploring in Machine Learning
+- Building and experimenting with ML and DL models.
+- Exploring ways to integrate ML models with frontend interfaces (for building ML-powered web applications).
+
+## 🤖 Learning Resources:
+- Machine Learning: Currently following university lectures and youtube tutorials to improve my understanding of algorithms, data preprocessing, and model evaluation.
+- React Development: Learning to build responsive and dynamic user interfaces with React, working on modern JavaScript features.
+- Backend with Spring Boot: Exploring how to build secure, scalable RESTful APIs using Spring Boot.
+- ML Models in Frontend: Researching how to deploy and integrate trained ML models in frontend applications (using libraries like TensorFlow.js, ONNX.js, or Flask for APIs).
 
 
 <div align="center">
