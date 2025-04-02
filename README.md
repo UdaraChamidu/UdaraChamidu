@@ -9,10 +9,6 @@
 
 <h3 align="center">🎮 Undergraduate Computer Engineer | University of Jaffna 🕹️</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" />
-</div>
-
 ---
 
 <p align="center">
@@ -28,7 +24,7 @@
 ---
 
 ### 🌱 About Me:
-<div align="center">
+<div align="left">
   🌟 Exploring AI, Machine Learning, Deep Learning <br>
   🛠️ Learning Backend Development <br>
   🚀 Currently working on a React frontend project 
