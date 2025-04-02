@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🎮 Undergraduate Computer Engineer | Digital Creater 🕹️</h3>
+<h3 align="center">🎮 Undergraduate Computer Engineer | University of Jaffna 🕹️</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" />
@@ -29,8 +29,8 @@
 
 ### 🌱 About Me:
 <div align="center">
-  🌟 Exploring AI and Machine Learning. <br>
-  🛠️ Learning Backend Development and Cloud Computing. <br>
+  🌟 Exploring AI, Machine Learning, Deep Learning <br>
+  🛠️ Learning Backend Development <br>
   🤝 Open to collaborating on cool projects and research. <br>
   🧠 Fun Fact: "Sharing knowledge is my superpower!"
 </div>
@@ -41,14 +41,16 @@
 <div align="left">
 Programming Languages : Python, C++, java <br>
 Embedded Systems : ESP32, Arduino <br>
-Mobile Development : Flutter, React Native <br>
+Mobile Development : React Native <br>
 Web Development : HTML, CSS, JavaScript, React, Node.js <br>
-Tools : Git, GitHub, VS Code, Figma
+Tools : Git, GitHub, VS Code, Google colab, Jupyter
 </div>
 
 ## 🔭 Current Focus:
 - Working on the Smart Railway Gate Control System project.
-- Learning frontend development with React and Flutter.
+- Learning frontend development with React.
+- Doing some ML and DL projects
+- Exploring in Machine Learning
 
 
 <div align="center">
