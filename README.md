@@ -7,7 +7,7 @@
 
 ---
 <h3 align="center">🎮 Undergraduate Computer Engineer | University of Jaffna 🕹️</h3>
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=👨‍💻+Code.+🚀+Innovate.+🎨+Create.+;Always+Learning.+💡+Always+Evolving.+;Welcome+to+my+GitHub+Profile!">
