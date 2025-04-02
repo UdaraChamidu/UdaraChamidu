@@ -6,9 +6,7 @@
 </h1>
 
 ---
-
 <h3 align="center">🎮 Undergraduate Computer Engineer | University of Jaffna 🕹️</h3>
-
 ---
 
 <p align="center">
@@ -27,7 +25,7 @@
 <div align="left">
   🌟 Exploring AI, Machine Learning, Deep Learning <br>
   🛠️ Learning Backend Development <br>
-  🚀 Currently working on a React frontend project 
+  🚀 Currently working on a React frontend project <br>
   🤝 Open to collaborating on cool projects and research. <br>
   💻 Always learning and exploring new technologies <br>
   🧠 Fun Fact: "Sharing knowledge is my superpower!"
@@ -82,4 +80,3 @@ Tools : Git, GitHub, VS Code, Google colab, Jupyter
 ## 🙏 Thank You for Visiting!
 
 If you like my projects, don't forget to ⭐️ them! Happy coding! 🚀
-
