@@ -15,19 +15,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-🤖-blueviolet?style=for-the-badge" alt="AI Engineer Badge">
-  <img src="https://img.shields.io/github/stars/UdaraChamidu?color=ff69b4&style=for-the-badge" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/followers/UdaraChamidu?label=Follow&style=social" alt="GitHub Followers">
+  
 </p>
 
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#certifications">Certifications</a> •
-  <a href="#connect">Connect</a> •
-  <a href="#stats">Stats</a>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="AI Animation">
