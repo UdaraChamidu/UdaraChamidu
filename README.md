@@ -67,7 +67,7 @@ My expertise spans AI, software engineering, and embedded systems:
 </p>
 
 <p align="center">
-  <b>🧠 Deep Learning</b><br><br>
+  <b>🔥 Deep Learning</b><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" style="margin-right:12px;" />
@@ -76,7 +76,7 @@ My expertise spans AI, software engineering, and embedded systems:
 </p>
 
 <p align="center">
-  <b>🧠 Generative AI & NLP</b><br><br>
+  <b>✨ Generative AI & NLP</b><br><br>
   <img src="https://skillicons.dev/icons?i=python" height="48" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" style="margin-right:12px;" />
