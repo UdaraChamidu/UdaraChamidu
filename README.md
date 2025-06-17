@@ -47,7 +47,6 @@ My expertise spans AI, software engineering, and embedded systems:
   <img src="https://img.shields.io/badge/Innovate%20with%20AI-💡-ff4500?style=flat-square" alt="Innovate Badge">
 </p>
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Udara+Chamidu;Computer+Engineering+Undergrad+%7C+AI+Explorer;ML+%7C+DL+%7C+AI;Always+Learning.+Always+Creating."/>
@@ -55,7 +54,7 @@ My expertise spans AI, software engineering, and embedded systems:
 
 ---
 
-<!-- 💡 Tech Stack Sections -->
+## 💡 Tech Stack
 
 <p align="center">
   <b>🧠 Machine Learning</b><br><br>
@@ -213,19 +212,6 @@ Let’s collaborate on AI, software, or innovative projects! Reach me at:
 - 🚀 Learning LLM fine tuning and advanced deployment techniques
 - 🌍 Studying Fulstack web development.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QLM7y3kK7z4W78hM2/giphy.gif" width="200" alt="AI Future Animation">
-</p>
-
----
-
-<p align="center">
-  <strong>Thanks for visiting! Let’s shape the future of AI together! 🤝</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20AI-🚀-pink?style=flat-square" alt="Made with Love">
-</p>
 ---
 
 ### 💬 Inspiration for You
@@ -238,5 +224,11 @@ Let’s collaborate on AI, software, or innovative projects! Reach me at:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif" width="700" />
 </p>
+<p align="center">
+  <strong>Thanks for visiting! Let’s shape the future of AI together! 🤝</strong>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20AI-🚀-pink?style=flat-square" alt="Made with Love">
+</p>
 <h4 align="center">⭐ If you like what you see, star a repo or drop by anytime. Happy coding! 💻</h4>
