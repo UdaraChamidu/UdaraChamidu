@@ -120,7 +120,7 @@ My expertise spans AI, software engineering, and embedded systems:
 
 ## 💻 Projects
 
-Here are some of my standout projects from [my GitHub](https://github.com/UdaraChamidu) and CV:
+Here are some of my standout projects from [my GitHub](https://github.com/UdaraChamidu)
 
 ### 🩺 [Medical Chatbot](https://github.com/UdaraChamidu) *(Ongoing)*
 A multimodal AI chatbot using FastAPI and Groq’s vision-language models to analyze medical images and symptoms, providing diagnostic insights.
@@ -151,12 +151,6 @@ A CNN-based binary image classifier to distinguish cats and dogs from a 10,000-i
 - **Tech**: TensorFlow, CNN, Python
 - **Features**: Image preprocessing, high-accuracy classification
 - **Status**: Completed
-
-### 📦 [Courier Management System](https://github.com/UdaraChamidu/Courier-Management-System)
-A modular full-business software framework for managing courier services.
-- **Tech**: PHP, MySQL, JavaScript, HTML, CSS
-- **Features**: Order tracking, customer management, logistics automation
-- **Status**: Actively maintained
 
 ### 🚂 [Smart Railway Gate Control System](https://github.com/UdaraChamidu/SmartRail-UI)
 An embedded system with GPS tracking and servo motors for automated railway gate control.
@@ -192,9 +186,9 @@ An embedded system with GPS tracking and servo motors for automated railway gate
 Let’s collaborate on AI, software, or innovative projects! Reach me at:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/udara-herath-5300062171"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:shamidsudara32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://udara.sans.lk"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/udara-herath-530006217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:chamiduudara32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="[https://udara.sans.lk](https://my-portfolio-nine-theta-59.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
 </p>
 
 ---
