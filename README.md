@@ -7,31 +7,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Udara+Chamidu;Computer+Engineering+Undergrad+%7C+AI+Explorer;FastAPI+%7C+Vision+Transformers+%7C+LLMs;Always+Learning.+Always+Creating."/>
-</p>
-
----
-# 🚀 Udara Herath's AI & Innovation Lab 🌌
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-🤖-blueviolet?style=for-the-badge" alt="AI Engineer Badge">
-  
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="AI Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Udara+Chamidu;Computer+Engineering+Undergrad+%7C+AI+Explorer;ML+%7C+DL+%7C+AI;Always+Learning.+Always+Creating."/>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-Hi, I'm **Udara Herath**, a final-year **B.Sc. (Hons) Computer Engineering** student at the University of Jaffna, Sri Lanka, and an aspiring **AI Engineer**. With 4 years of industry experience and a passion for **Machine Learning (ML)**, **Deep Learning (DL)**, **Generative AI**, **Natural Language Processing (NLP)**, **Transformers**, **Retrieval-Augmented Generation (RAG)**, and **AI Agents**, I build intelligent systems that solve real-world problems. My projects range from medical chatbots to autonomous railway systems, blending AI with practical applications. I’m driven by innovation, continuous learning, and creating impactful solutions. 🚀
+Hi, I'm **Udara Herath**, a final-year **B.Sc. (Hons) Computer Engineering** student at the University of Jaffna, Sri Lanka, and an aspiring **AI/ML Engineer**. With 3 years of university experience and a passion for **Machine Learning (ML)**, **Deep Learning (DL)**, **Generative AI**, **Natural Language Processing (NLP)**, **Transformers**, **Retrieval-Augmented Generation (RAG)**, and **AI Agents**, I build intelligent systems that solve real world problems. My projects range from ML models to autonomous railway systems, blending AI with practical applications and medical chatbots. I’m driven by innovation, continuous learning, and creating impactful solutions. 🚀
 
-- 🔬 **Currently Working On**: Multimodal RAG systems and AI-powered diagnostic tools
-- 🎯 **Goal**: To develop autonomous AI agents and deploy scalable AI solutions
-- 💡 **Fun Fact**: I see AI as a puzzle—each model is a piece that fits into a larger vision of innovation!
+- 🔬 **Currently Working On**: Multimodal RAG systems, AI-powered diagnostic tools and autonomus AI agents.
+- 🎯 **Goals**: To develop autonomous AI systems for real world problems.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UdaraChamidu&color=brightgreen" alt="Profile Views">
