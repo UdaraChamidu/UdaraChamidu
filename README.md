@@ -210,8 +210,8 @@ Let’s collaborate on AI, software, or innovative projects! Reach me at:
 
 - 🧪 Developing a personal AI agent for task automation
 - 🌐 Building a portfolio website to showcase my projects
-- 🚀 Learning LLM fine-tuning and advanced deployment techniques
-- 🌍 Contributing to open-source AI projects for global impact
+- 🚀 Learning LLM fine tuning and advanced deployment techniques
+- 🌍 Studying Fulstack web development.
 
 <p align="center">
   <img src="https://media.giphy.com/media/QLM7y3kK7z4W78hM2/giphy.gif" width="200" alt="AI Future Animation">
