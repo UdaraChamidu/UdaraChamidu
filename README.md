@@ -77,30 +77,11 @@ My expertise spans AI, software engineering, and embedded systems:
 
 <p align="center">
   <b>🧠 Generative AI & NLP</b><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="48" style="margin-right:12px;" />
   <img src="https://skillicons.dev/icons?i=python" height="48" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" />
-  <br>
-  <em>🛠️ LangChain, GPT, Prompt Engineering, RAG, LLMs (text-based concepts)</em>
-  <br><br>
-</p>
-
-<p align="center">
-  <b>🤖 Agentic AI</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python" height="48" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="48" alt="LangChain" />
   <br>
-  <em>🛠️ n8n, LangGraph, Autonomous Agents (no icon support yet)</em>
-  <br><br>
-</p>
-
-<p align="center">
-  <b>👁️ Computer Vision</b><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" />
   <br>
-  <em>🧠 CNNs, ViTs (theoretical models)</em>
-  <br><br>
 </p>
 
 <p align="center">
@@ -115,8 +96,7 @@ My expertise spans AI, software engineering, and embedded systems:
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="48" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" />
   <br>
-  <em>📦 ChromaDB, Pinecone, FAISS (conceptual)</em>
-  <br><br>
+  <br>
 </p>
 
 <p align="center">
@@ -134,9 +114,7 @@ My expertise spans AI, software engineering, and embedded systems:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" style="margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" />
   <br>
-  <em>📄 MS Word, Excel, PowerPoint (not icon-supported)</em>
 </p>
-
 
 ---
 
