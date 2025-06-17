@@ -1,14 +1,11 @@
 <h1 align="center">
-  🚀 Welcome to My GitHub!
-  <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <br>
-  <img src="https://avatars.githubusercontent.com/u/99125273?v=4" width="120" style="border-radius:50%" />
+  🚀 Welcome to My GitHub! I'm Udara Chamidu
+  
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Udara+Chamidu;Computer+Engineering+Undergrad+%7C+AI+Explorer;ML+%7C+DL+%7C+AI;Always+Learning.+Always+Creating."/>
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Computer+Engineering+Undergraduate;+AI+Explorer;Always+Learning+%26+Always+Creating;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</h2>
 
 ---
 
@@ -49,6 +46,97 @@ My expertise spans AI, software engineering, and embedded systems:
 <p align="center">
   <img src="https://img.shields.io/badge/Innovate%20with%20AI-💡-ff4500?style=flat-square" alt="Innovate Badge">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Udara+Chamidu;Computer+Engineering+Undergrad+%7C+AI+Explorer;ML+%7C+DL+%7C+AI;Always+Learning.+Always+Creating."/>
+</p>
+
+---
+
+<!-- 💡 Tech Stack Sections -->
+
+<p align="center">
+  <b>🧠 Machine Learning</b><br><br>
+  <img src="https://skillicons.dev/icons?i=python" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
+  <br><br>
+</p>
+
+<p align="center">
+  <b>🧠 Deep Learning</b><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" />
+  <br><br>
+</p>
+
+<p align="center">
+  <b>🧠 Generative AI & NLP</b><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" />
+  <br>
+  <em>🛠️ LangChain, GPT, Prompt Engineering, RAG, LLMs (text-based concepts)</em>
+  <br><br>
+</p>
+
+<p align="center">
+  <b>🤖 Agentic AI</b><br><br>
+  <img src="https://skillicons.dev/icons?i=python" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="48" alt="LangChain" />
+  <br>
+  <em>🛠️ n8n, LangGraph, Autonomous Agents (no icon support yet)</em>
+  <br><br>
+</p>
+
+<p align="center">
+  <b>👁️ Computer Vision</b><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" />
+  <br>
+  <em>🧠 CNNs, ViTs (theoretical models)</em>
+  <br><br>
+</p>
+
+<p align="center">
+  <b>🌐 Web & App Development</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,fastapi" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48" />
+  <br><br>
+</p>
+
+<p align="center">
+  <b>🗃️ Databases & Vector Stores</b><br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" />
+  <br>
+  <em>📦 ChromaDB, Pinecone, FAISS (conceptual)</em>
+  <br><br>
+</p>
+
+<p align="center">
+  <b>☁️ Cloud & Hosting</b><br><br>
+  <img src="https://skillicons.dev/icons?i=vercel,railway,github" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/colab/colab-original.svg" height="48" />
+  <br><br>
+</p>
+
+<p align="center">
+  <b>⚙️ Tools & Platforms</b><br><br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,arduino" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" />
+  <br>
+  <em>📄 MS Word, Excel, PowerPoint (not icon-supported)</em>
+</p>
+
 
 ---
 
@@ -118,16 +206,6 @@ An embedded system with GPS tracking and servo motors for automated railway gate
 - **MoraXtreme** – Coding Competition
 - **ALGOXPLORE** – Coding Competition
 - **SPIRITX** – Web Development Competition
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,html,css,react,nodejs,php,matlab" alt="Tech Stack">
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,docker,git,github,vscode,arduino" alt="Tools">
-</p>
 
 ---
 
