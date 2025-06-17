@@ -188,7 +188,7 @@ Let’s collaborate on AI, software, or innovative projects! Reach me at:
 <p align="center">
   <a href="https://www.linkedin.com/in/udara-herath-530006217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:chamiduudara32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="[https://udara.sans.lk](https://my-portfolio-nine-theta-59.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
+  <a href="https://my-portfolio-nine-theta-59.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
 </p>
 
 ---
