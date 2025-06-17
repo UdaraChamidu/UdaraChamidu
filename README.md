@@ -32,18 +32,18 @@ My expertise spans AI, software engineering, and embedded systems:
 | **Domain**               | **Expertise**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **Machine Learning**     | Supervised/Unsupervised Learning, Linear Regression, SVM, KNN, Decision Trees |
-| **Deep Learning**        | CNNs, RNNs, LSTMs, Vision Transformers (ViT), InceptionV3                    |
-| **Generative AI**        | GANs, Diffusion Models, Image Captioning, Text-to-Image Generation            |
+| **Deep Learning**        | CNNs, RNNs, LSTMs, Vision Transformers (ViT)                       |
+| **Generative AI**        | GANs, Text Generation, Image Generation            |
 | **NLP**                  | Sentiment Analysis, Text Classification, Tokenization, Prompt Engineering     |
 | **Transformers**         | BERT, GPT, LLaMA, Hugging Face Transformers, RAG Architecture                 |
-| **AI Agents**            | LangGraph, n8n, Autonomous Agents, State Transitions                          |
+| **AI Agents**            | LangGraph, n8n, CrewAI                          |
 | **Computer Vision**      | Image Classification, Object Detection, Multimodal Fusion                     |
-| **Web & API Development**| Streamlit, FastAPI, Flask, Django, React, REST APIs                           |
+| **Web & API Development**| Streamlit, FastAPI, React, HTML, CSS, JavaScript                    |
 | **Programming**          | Python, Java, C++, JavaScript, PHP, MATLAB                                    |
 | **Data Handling**        | NumPy, Pandas, Matplotlib, Seaborn                                           |
 | **Databases**            | MySQL, MongoDB, ChromaDB, Pinecone, FAISS                                    |
-| **Cloud & Tools**        | AWS, Google Colab, Git, GitHub, Docker                                        |
-| **Embedded Systems**     | Arduino, ESP32, Servo Motors, GPS Tracking                                    |
+| **Cloud & Tools**        | Google Colab, Git, GitHub                                   |
+| **Embedded Systems**     | Arduino, ESP32, GPS                                     |
 | **Soft Skills**          | Problem Solving, Critical Thinking, Teamwork, Leadership, Time Management     |
 
 <p align="center">
