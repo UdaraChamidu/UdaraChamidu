@@ -115,21 +115,6 @@ My expertise spans AI, software engineering, and embedded systems:
 
 ---
 
-## 🏆 Certifications
-
-- **AI Agents Fundamentals** – Hugging Face
-- **AI Agents Completion** – Hugging Face *(Ongoing)*
-- **AI/ML Engineer Stage 1 & 2** – SLIT
-- **Python for Beginners** – University of Moratuwa
-- **Python Programming** – University of Moratuwa *(Ongoing)*
-- **Web Design for Beginners** – University of Moratuwa
-- **Introduction to AI** – Simplilearn
-- **MoraXtreme** – Coding Competition
-- **ALGOXPLORE** – Coding Competition
-- **SPIRITX** – Web Development Competition
-
----
-
 ## 📬 Connect
 
 Let’s collaborate on AI, software, or innovative projects! Reach me at:
