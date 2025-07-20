@@ -37,7 +37,7 @@ My expertise spans AI, software engineering, and embedded systems:
 | **Programming**          | Python, Java, C++, JavaScript, PHP, MATLAB                                    |
 | **Data Handling**        | NumPy, Pandas, Matplotlib, Seaborn                                           |
 | **Databases**            | MySQL, MongoDB, ChromaDB, Pinecone, FAISS                                    |
-| **Cloud & Tools**        | Google Colab, Git, GitHub                                   |
+| **Cloud & Tools**        | Google Colab, Git, GitHub, VS code                                  |
 | **Embedded Systems**     | Arduino, ESP32, GPS                                     |
 | **Soft Skills**          | Problem Solving, Critical Thinking, Teamwork, Leadership, Time Management     |
 
