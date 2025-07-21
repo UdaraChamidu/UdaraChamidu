@@ -13,11 +13,11 @@ Hi, I'm **Udara Herath**, a final-year **B.Sc. (Hons) Computer Engineering** stu
 
 - 🔬 **Currently Working On**: Multimodal RAG systems, AI-powered diagnostic tools and autonomus AI agents.
 - 🎯 **Goals**: To develop autonomous AI systems for real world problems.
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UdaraChamidu&color=brightgreen" alt="Profile Views">
 </p>
-
+ 
 ---
 
 ## 🛠️ Skills
