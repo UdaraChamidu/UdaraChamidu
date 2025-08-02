@@ -9,38 +9,32 @@
 
 ## 🌟 About Me
 
-I'm **Udara Herath**, a final-year **Computer Engineering undergrad** from the University of Jaffna, Sri Lanka. I love building intelligent systems using **AI, ML, NLP, Deep Learning**, and **Autonomous Agents**. Whether it’s a **multimodal chatbot**, a **diagnostic tool**, or a **railway automation system**, I’m all about solving real-world problems with smart tech.
+I'm **Udara Herath**, a final-year **Computer Engineering undergraduate** at the University of Jaffna, Sri Lanka. Passionate about building smart systems using **AI**, **Machine Learning**, **Deep Learning**, **NLP**, and **AI Agents**.
 
-- 🛠️ Currently working on: Multimodal RAG + AI agents  
-- 🎯 Goal: Create AI that thinks, acts, and adapts  
-- ⚡ Motto: Always learning. Always building. Always exploring.  
+Whether it’s a **medical chatbot**, **RAG system**, or **automation tool**, I love solving real-world problems with code and creativity.
+
+- 🧪 Currently building: Multimodal RAG systems & Autonomous Agents  
+- 🎯 Goal: Make AI practical and impactful  
+- 🛠 Motto: Learn fast, build smart, share openly  
 
 ---
 
 ## 🧠 Skills & Tools
 
-### 🤖 AI & ML  
-<img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pytorch,numpy,pandas,scikit-learn" height="40" />
-
-### 🧠 Deep Learning & NLP  
-<img src="https://skillicons.dev/icons?i=python" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
-
-### 🌐 Web & App Development  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,fastapi" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" />
-
-### 🗃️ Databases & Vector Stores  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-
-### ☁️ Cloud & Hosting  
-<img src="https://skillicons.dev/icons?i=vercel,railway,github" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
-
-### 🛠️ Platforms & Languages  
-<img src="https://skillicons.dev/icons?i=git,vscode,java,cpp,matlab,arduino" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,streamlit,jupyter" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel,railway" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
+</p>
 
 ---
 
@@ -54,20 +48,21 @@ I'm **Udara Herath**, a final-year **Computer Engineering undergrad** from the U
 
 ---
 
-## 📈 Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UdaraChamidu&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaraChamidu&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraChamidu&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
 ## 🚀 What’s Next?
 
-- Building an AI agent for task automation  
-- Learning LLM fine-tuning + deployment  
-- Publishing open-source AI projects  
+- Building a personal AI agent  
+- Fine-tuning LLMs for real use cases  
+- Exploring full-stack AI apps  
 
 ---
 
@@ -78,11 +73,11 @@ I'm **Udara Herath**, a final-year **Computer Engineering undergrad** from the U
 ---
 
 <p align="center">
-  <strong>Thanks for stopping by! 🌟 Let’s shape the future of AI together.</strong>
+  <strong>Thanks for visiting! Let’s shape the future of AI together. 🤝</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20AI-🚀-pink?style=flat-square" alt="Made with Love">
 </p>
 
-<h4 align="center">⭐ If you like what you see, star a repo or drop by anytime. Happy coding! 💻</h4>
+<h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy coding!</h4>
