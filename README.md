@@ -60,9 +60,10 @@ Whether it’s a **medical chatbot**, **RAG system**, or **automation tool**, I 
 
 ## 🚀 What’s Next?
 
-- Building a personal AI agent  
+- Building  AI agentic Applications
 - Fine-tuning LLMs for real use cases  
-- Exploring full-stack AI apps  
+- Exploring full-stack AI apps
+- Deployment Techniques 
 
 ---
 
