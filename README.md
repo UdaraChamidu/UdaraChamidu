@@ -1,37 +1,43 @@
-<h1 align="center">👋 Hi, I'm Udara Chamidu</h1>
-<h3 align="center">Computer Engineering Student | AI Explorer | Always Learning 🚀</h3>
+<!-- Dark Purple Hacker Theme -->
+
+<h1 align="center">💻 Udara Chamidu | AI Explorer</h1>
+<h3 align="center">Computer Engineering Student | AI & ML Enthusiast | Hacker of Ideas 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=AI+%7C+ML+%7C+DL+%7C+NLP+%7C+RAG;Building+Intelligent+Systems;Solving+Real+World+Problems" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
+       width="320" height="320" alt="Profile Picture" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=B37DF0&center=true&width=500&lines=AI+%7C+ML+%7C+DL+%7C+NLP+%7C+RAG;Building+Intelligent+Systems;Solving+Real+World+Problems" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
-I'm **Udara Herath**, a final-year **Computer Engineering undergraduate** at the University of Jaffna, Sri Lanka. Passionate about building smart systems using **AI**, **Machine Learning**, **Deep Learning**, **NLP**, and **AI Agents**.
+Hi, I’m **Udara Herath**, a final-year **Computer Engineering undergraduate** at the University of Jaffna, Sri Lanka.  
+I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, and **Agentic AI** to solve real-world problems.
 
-Whether it’s a **medical chatbot**, **RAG system**, or **automation tool**, I love solving real-world problems with code and creativity.
-
-- 🧪 Currently building: Multimodal RAG systems & Autonomous Agents  
-- 🎯 Goal: Make AI practical and impactful  
-- 🛠 Motto: Learn fast, build smart, share openly  
+- 🧪 Currently: Building **Multimodal RAG systems** & **Autonomous AI Agents**  
+- 🎯 Goal: Make AI **practical** and **impactful**  
+- 🛠 Motto: *Think Big, Code Smart, Share Openly*  
 
 ---
 
-## 🧠 Skills & Tools
+## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,streamlit,jupyter" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,streamlit,jupyter&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=vercel,railway" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel,railway&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
 </p>
@@ -41,44 +47,39 @@ Whether it’s a **medical chatbot**, **RAG system**, or **automation tool**, I 
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/udara-herath-530006217"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:chamiduudara32@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://udara-chamidu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/udara-herath-530006217"><img src="https://img.shields.io/badge/LinkedIn-5A0FC8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chamiduudara32@gmail.com"><img src="https://img.shields.io/badge/Email-7E3FF2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://udara-chamidu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdaraChamidu&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaraChamidu&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraChamidu&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=UdaraChamidu&show_icons=true&theme=tokyonight&title_color=B37DF0&icon_color=B37DF0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaraChamidu&theme=tokyonight&ring=B37DF0&fire=B37DF0&currStreakLabel=B37DF0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraChamidu&layout=compact&theme=tokyonight&title_color=B37DF0" />
 </p>
 
 ---
 
-## 🚀 What’s Next?
+## 🚀 Next Up
 
-- Building  AI agentic Applications
-- Fine-tuning LLMs for real use cases  
-- Exploring full-stack AI apps
-- Deployment Techniques 
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Hard.;Build+with+Purpose."/>
-</p>
+- Building **Agentic AI Applications**  
+- Fine-tuning **LLMs** for production use  
+- Exploring **full-stack AI apps** with **modern deployment**  
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting! Let’s shape the future of AI together. 🤝</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Hard.;Build+with+Purpose."/>
 </p>
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20AI-🚀-pink?style=flat-square" alt="Made with Love">
+  <strong>💜 Thanks for visiting! Let’s shape the future of AI together. 🤝</strong>
 </p>
 
-<h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy coding!</h4>
+<h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy hacking!</h4>
