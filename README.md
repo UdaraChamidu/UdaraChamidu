@@ -42,8 +42,6 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
 </p>
 
----
-
 ## 📬 Let’s Connect
 
 <p align="center">
@@ -71,7 +69,6 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
 - Exploring **full-stack AI apps** with **modern deployment**
 - Deploying AI applications.
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Hard.;Build+with+Purpose."/>
