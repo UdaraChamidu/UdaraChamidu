@@ -1,7 +1,7 @@
 <!-- Dark Purple Hacker Theme -->
 
 <h1 align="center">💻 Udara Chamidu | AI Explorer</h1>
-<h3 align="center">Computer Engineering Student | AI & ML Enthusiast | Hacker of Ideas 🚀</h3>
+<h3 align="center">Computer Engineering Student | AI & ML Enthusiast | Knowledge Seeker 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
@@ -19,9 +19,9 @@
 Hi, I’m **Udara Herath**, a final-year **Computer Engineering undergraduate** at the University of Jaffna, Sri Lanka.  
 I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, and **Agentic AI** to solve real-world problems.
 
-- 🧪 Currently: Building **Multimodal RAG systems** & **Autonomous AI Agents**  
+- 🧪 Currently: Building **Autonomous AI Agents**  and **Studying Docker**
 - 🎯 Goal: Make AI **practical** and **impactful**  
-- 🛠 Motto: *Think Big, Code Smart, Share Openly*  
+- 🛠 Motto: **Think Big, Code Smart, Share Openly**
 
 ---
 
@@ -67,8 +67,9 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
 ## 🚀 Next Up
 
 - Building **Agentic AI Applications**  
-- Fine-tuning **LLMs** for production use  
-- Exploring **full-stack AI apps** with **modern deployment**  
+- Fine tuning **LLMs** for production use  
+- Exploring **full-stack AI apps** with **modern deployment**
+- Deploying AI applications.
 
 ---
 
