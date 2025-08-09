@@ -37,7 +37,7 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=vercel,railway&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
 </p>
