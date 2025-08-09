@@ -28,7 +28,7 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,streamlit,jupyter&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
