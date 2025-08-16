@@ -80,4 +80,4 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
   <strong>💜 Thanks for visiting! Let’s shape the future of AI together. 🤝</strong>
 </p>
 
-<h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy hacking!</h4>
+<h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy codiing!</h4>
