@@ -47,7 +47,16 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="HuggingFace" />
+  <img src="https://railway.app/brand/logo-light.png" height="40" alt="Railway" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="Streamlit" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n" />
+
 </p>
+
+---
+
+
 
 ## 📬 Let’s Connect
 
