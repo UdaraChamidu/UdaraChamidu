@@ -54,9 +54,6 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
 
 </p>
 
----
-
-
 
 ## 📬 Let’s Connect
 
