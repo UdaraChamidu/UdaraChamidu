@@ -1,4 +1,11 @@
 <!-- Dark Purple Hacker Theme -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Profile!+✨;Exploring+the+World+of+AI+%26+ML;Turning+Ideas+into+Code+🚀" alt="Welcome Animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" />
+</p>
 
 <h1 align="center">💻 Udara Chamidu | AI Explorer</h1>
 <h3 align="center">Computer Engineering Student | AI & ML Enthusiast | Knowledge Seeker 🚀</h3>
@@ -62,6 +69,14 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UdaraChamidu&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 🚀 Next Up
 
 - Building **Agentic AI Applications**  
@@ -69,12 +84,20 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
 - Exploring **full-stack AI apps** with **modern deployment**
 - Deploying AI applications.
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdaraChamidu&theme=tokyo-night&hide_border=true&line=B37DF0&point=B37DF0" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Hard.;Build+with+Purpose."/>
 </p>
 
----
 
 <p align="center">
   <strong>💜 Thanks for visiting! Let’s shape the future of AI together. 🤝</strong>
