@@ -7,8 +7,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" />
 </p>
 
-<h1 align="center">💻 Udara Chamidu | AI Explorer</h1>
-<h3 align="center">Computer Engineering Student | AI & ML Enthusiast | Knowledge Seeker 🚀</h3>
+<h1 align="center">💻 I'm Udara Chamidu </h1>
+<h3 align="center">Computer Engineering Undergratuate | AI & ML Enthusiast | Knowledge Seeker 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
@@ -106,7 +106,7 @@ I love building **intelligent systems** using **AI**, **ML**, **DL**, **NLP**, a
 
 
 <p align="center">
-  <strong>💜 Thanks for visiting! Let’s shape the future of AI together. 🤝</strong>
+  <strong>💜 Thanks for visiting! Let’s shape the future of AI together. 💜</strong>
 </p>
 
 <h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy codiing!</h4>
