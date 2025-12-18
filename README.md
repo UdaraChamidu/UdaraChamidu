@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">💻 I'm Udara Chamidu </h1>
-<h3 align="center">Computer Engineering Undergratuate | AI & ML Enthusiast | Knowledge Seeker 🚀</h3>
+<h3 align="center">Computer Engineering Undergratuate | AI & ML Enthusiast | Software Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
