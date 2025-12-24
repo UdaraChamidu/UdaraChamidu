@@ -16,7 +16,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=B37DF0&center=true&width=500&lines=AI+%7C+ML+%7C+DL+%7C+NLP+%7C+RAG;Modern+Software +Solutions;Building+Intelligent+Systems;Solving+Real+World+Problems;Full-Stack+Web+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=B37DF0&center=true&width=500&lines=AI+%7C+ML+%7C+DL+%7C+NLP+%7C+RAG;Modern+Software+Solutions;Building+Intelligent+Systems;Solving+Real+World+Problems;Full+Stack+Web+Development" alt="Typing Animation" />
 </p>
 
 ---
