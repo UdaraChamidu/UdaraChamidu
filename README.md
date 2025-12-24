@@ -87,7 +87,9 @@ I am currently working as a **Software Engineering Intern**, bridging the gap be
 
 ## 🚀 Next Up
 
-- Building **Agentic AI Applications**  
+- Building **Agentic AI Applications**
+- Developing an **HR Management System** with **NestJS** & **PostgreSQL**.
+- Deepening knowledge in **Laravel**, **Inertia.js**, and **Vue.js**.
 - Fine tuning **LLMs** for production use  
 - Exploring **full-stack AI apps** with **modern deployment**
 - Deploying AI applications.
