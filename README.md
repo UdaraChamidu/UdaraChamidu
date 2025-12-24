@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">💻 I'm Udara Chamidu </h1>
-<h3 align="center">Computer Engineering Undergratuate | AI & ML Enthusiast | Software Engineer 🚀</h3>
+<h3 align="center">Computer Engineering Undergratuate | AI & ML Enthusiast | AI + Software Engineer Intern🚀</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
@@ -37,14 +37,14 @@ I am currently working as a **Software Engineering Intern**, bridging the gap be
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,cpp,js,html,css,react,laravel,nestjs,vue,nextjs,tailwind,fastapi&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode&theme=dark" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,vscode&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
