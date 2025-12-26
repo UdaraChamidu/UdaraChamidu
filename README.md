@@ -27,7 +27,7 @@ Hi, I’m **Udara Herath**, a final-year **Computer Engineering undergraduate** 
 I love building **intelligent systems** using **Gen AI**, **Machine Learning**, **Deep Learning**, **NLP**, and **Agentic AI** to solve real-world problems.
 I am currently working as a **Software Engineering Intern**, bridging the gap between robust software architecture and cutting-edge Artificial Intelligence.
 
-- 💼 Current Role:** Software Engineering Intern (Focusing on Full Stack & AI)
+- 💼 Current Role: Software Engineering Intern (Focusing on Full Stack & AI)
 - 🧪 Currently: Building **Autonomous AI Agents**  , **Studying Docker** and **Building HR management System for Idea8**
 - 🎯 Goal: Make AI and web development **practical** and **impactful**  
 - 🛠 Motto: **Think Big, Code Smart, Share Openly**
