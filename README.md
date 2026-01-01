@@ -81,9 +81,8 @@ I am currently working as a **Software Engineering Intern**, bridging the gap be
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UdaraChamidu&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=UdaraChamidu&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
 
 ---
 
