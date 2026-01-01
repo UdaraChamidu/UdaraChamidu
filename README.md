@@ -70,10 +70,11 @@ I am currently working as a **Software Engineering Intern**, bridging the gap be
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdaraChamidu&show_icons=true&theme=tokyonight&title_color=B37DF0&icon_color=B37DF0" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaraChamidu&theme=tokyonight&ring=B37DF0&fire=B37DF0&currStreakLabel=B37DF0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraChamidu&layout=compact&theme=tokyonight&title_color=B37DF0" />
+  <img src="https://github-readme-stats-beta-tan-32.vercel.app/api?username=UdaraChamidu&show_icons=true&theme=tokyonight&title_color=B37DF0&icon_color=B37DF0" />
+  <img src="https://streak-stats.demolab.com/?user=UdaraChamidu&theme=tokyonight&ring=B37DF0&fire=B37DF0&currStreakLabel=B37DF0" />
+  <img src="https://github-readme-stats-beta-tan-32.vercel.app/api/top-langs/?username=UdaraChamidu&layout=compact&theme=tokyonight&title_color=B37DF0" />
 </p>
+
 
 ---
 
