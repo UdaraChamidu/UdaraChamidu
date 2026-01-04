@@ -4,7 +4,7 @@
 </p>
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" /> 
 </p>
 
 <h1 align="center">💻 I'm Udara Chamidu </h1>
