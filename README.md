@@ -4,7 +4,7 @@
 </p>
   
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" /> 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000"  /> 
 </p>
 
 <h1 align="center">💻 I'm Udara Chamidu </h1>
@@ -92,18 +92,22 @@ I am currently working as a **Software Engineering Intern**, bridging the gap be
 <tr>
 <td width="50%">
 
-### 🤖 AI Agent Systems
-Advanced autonomous agents using LangChain, RAG, and LLMs for intelligent task automation and decision-making.
+### 🌐 Full Stack Web Apps
+Modern, responsive web applications with seamless user experiences, robust backends, and scalable architecture.
 
-**Tech:** Python, LangChain, OpenAI API, Vector DBs
+**Tech Stack:** React, Next.js, Laravel, NestJS, Vue.js, Tailwind CSS, PostgreSQL
+
+**Highlights:** Enterprise HR Systems, E-commerce Platforms, Real-time Dashboards
 
 </td>
 <td width="50%">
 
-### 💼 HR Management System
-Full-stack enterprise HR solution with modern architecture and scalable design.
+### 🤖 AI Agent Systems
+Intelligent autonomous agents that can reason, plan, and execute complex tasks using advanced AI techniques.
 
-**Tech:** NestJS, PostgreSQL, Vue.js, TypeScript
+**Tech Stack:** LangChain, LangGraph, OpenAI API, Anthropic Claude, Vector Databases
+
+**Highlights:** Task Automation, Multi-Agent Workflows, RAG-powered Assistants
 
 </td>
 </tr>
@@ -111,18 +115,22 @@ Full-stack enterprise HR solution with modern architecture and scalable design.
 <tr>
 <td width="50%">
 
-### 🧠 Deep Learning Models
-Custom neural networks for computer vision, NLP, and time-series forecasting tasks.
+### 🧠 Machine Learning Solutions
+End-to-end ML pipelines for prediction, classification, and data-driven insights across various domains.
 
-**Tech:** TensorFlow, PyTorch, Keras, Scikit-learn
+**Tech Stack:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib
+
+**Highlights:** Computer Vision, NLP Models, Predictive Analytics, Time-series Forecasting
 
 </td>
 <td width="50%">
 
-### 🌐 Full Stack Web Apps
-Modern, responsive web applications with clean UI/UX and robust backends.
+### ⚡ AI Automations
+Streamlined workflows and intelligent automation systems that save time and boost productivity.
 
-**Tech:** React, Next.js, Laravel, Tailwind CSS
+**Tech Stack:** n8n, Zapier, LangChain, FastAPI, Streamlit, Python
+
+**Highlights:** Document Processing, Email Automation, Data Pipeline Orchestration
 
 </td>
 </tr>
@@ -133,10 +141,11 @@ Modern, responsive web applications with clean UI/UX and robust backends.
 ## 💡 What I'm Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐳_Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_LLM_Fine--tuning-Advanced_AI-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔄_Inertia.js-Modern_Stack-9553E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☁️_Cloud_Deployment-Production-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐳_Docker-Containerization-B37DF0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_LLM_Fine--tuning-Advanced_AI-9B59D0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄_Inertia.js-Modern_Stack-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Deployment-Production-A569BD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_MLOps-Model_Deployment-BA68C8?style=for-the-badge" />
 </p>
 
 ---
@@ -166,9 +175,10 @@ Modern, responsive web applications with clean UI/UX and robust backends.
 ## 🏅 Achievements & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Computer_Engineering-University_of_Jaffna-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼_Software_Engineer-Intern-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_AI/ML-Enthusiast-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Computer_Engineering-University_of_Jaffna-B37DF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Software_Engineer-Intern-9B59D0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_AI/ML-Enthusiast-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Full_Stack-Developer-A569BD?style=for-the-badge" />
 </p>
 
 ---
@@ -188,16 +198,16 @@ Modern, responsive web applications with clean UI/UX and robust backends.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/udara-herath-530006217">
-    <img src="https://img.shields.io/badge/LinkedIn-5A0FC8?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-B37DF0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chamiduudara32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7E3FF2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-9B59D0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://udara-chamidu-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/UdaraChamidu">
-    <img src="https://img.shields.io/badge/GitHub-B37DF0?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-A569BD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
