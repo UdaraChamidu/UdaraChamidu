@@ -1,6 +1,6 @@
 <!-- Dark Purple Hacker Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=800&size=40&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Profile!+✨;Exploring+the+World+of+AI+%26+ML;Turning+Ideas+into+Code+🚀" alt="Welcome Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Profile!+✨;Exploring+the+World+of+AI+%26+ML;Turning+Ideas+into+Code+🚀" alt="Welcome Animation" />
 </p>
   
 <p align="center"> 
@@ -8,11 +8,11 @@
 </p>
 
 <h1 align="center">💻 I'm Udara Chamidu </h1>
-<h3 align="center">Computer Engineering Undergratuate | AI & ML Enthusiast | AI + Software Engineer Intern🚀</h3>
+<h3 align="center">Computer Engineering Undergraduate | AI & ML Enthusiast | AI + Software Engineer Intern 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
-       width="500" height="500" alt="Profile Picture" />
+       width="400" height="400" alt="Profile Picture" />
 </p>
 
 <p align="center"> 
@@ -23,79 +23,194 @@
 
 ## 🌌 About Me
 
-Hi, I’m **Udara Herath**, a final-year **Computer Engineering undergraduate** at the University of Jaffna, Sri Lanka.  
+Hi, I'm **Udara Herath**, a final-year **Computer Engineering undergraduate** at the University of Jaffna, Sri Lanka.  
 I love building **intelligent systems** using **Gen AI**, **Machine Learning**, **Deep Learning**, **NLP**, and **Agentic AI** to solve real-world problems.
 I am currently working as a **Software Engineering Intern**, bridging the gap between robust software architecture and cutting-edge Artificial Intelligence.
 
-- 💼 Current Role: Software Engineering Intern (Focusing on Full Stack & AI)
-- 🧪 Currently: Building **Autonomous AI Agents**  , **Studying Docker** and **Building HR management System for Idea8**
-- 🎯 Goal: Make AI and web development **practical** and **impactful**  
-- 🛠 Motto: **Think Big, Code Smart, Share Openly**
+- 💼 **Current Role:** Software Engineering Intern (Focusing on Full Stack & AI)
+- 🧪 **Currently:** Building **Autonomous AI Agents**, **Studying Docker** and **Building HR Management System for Idea8**
+- 🎯 **Goal:** Make AI and web development **practical** and **impactful**  
+- 🛠 **Motto:** **Think Big, Code Smart, Share Openly**
 
 ---
 
 ## ⚙️ Skills & Tools
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,cpp,js,html,css,react,laravel,nestjs,vue,nextjs,tailwind,fastapi&theme=dark" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,vscode&theme=dark" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="HuggingFace" />
-  <img src="https://railway.app/brand/logo-light.png" height="40" alt="Railway" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="Streamlit" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,php,cpp,js,html,css&theme=dark" height="50" />
 </p>
 
-
-## 📬 Let’s Connect
-
+### 🎨 Frontend Development
 <p align="center">
-  <a href="https://www.linkedin.com/in/udara-herath-530006217"><img src="https://img.shields.io/badge/LinkedIn-5A0FC8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:chamiduudara32@gmail.com"><img src="https://img.shields.io/badge/Email-7E3FF2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://udara-chamidu-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind&theme=dark" height="50" />
+</p>
+
+### ⚡ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,fastapi&theme=dark" height="50" />
+</p>
+
+### 🤖 AI/ML Frameworks & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" alt="Matplotlib" />
+  <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height="50" alt="Keras" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="HuggingFace" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="50" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="MATLAB" />
+</p>
+
+### 🚀 Deployment & Automation
+<p align="center">
+  <img src="https://railway.app/brand/logo-dark.png" height="50" alt="Railway" style="background: white; padding: 5px; border-radius: 5px;" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" alt="Streamlit" />
+  <img src="https://docs.n8n.io/favicon.svg" height="50" alt="n8n" style="background: white; padding: 5px; border-radius: 5px;" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-beta-tan-32.vercel.app/api?username=UdaraChamidu&show_icons=true&theme=tokyonight&title_color=B37DF0&icon_color=B37DF0" />
-  <img src="https://streak-stats.demolab.com/?user=UdaraChamidu&theme=tokyonight&ring=B37DF0&fire=B37DF0&currStreakLabel=B37DF0" />
-  <img src="https://github-readme-stats-beta-tan-32.vercel.app/api/top-langs/?username=UdaraChamidu&layout=compact&theme=tokyonight&title_color=B37DF0" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
+### 🤖 AI Agent Systems
+Advanced autonomous agents using LangChain, RAG, and LLMs for intelligent task automation and decision-making.
 
+**Tech:** Python, LangChain, OpenAI API, Vector DBs
+
+</td>
+<td width="50%">
+
+### 💼 HR Management System
+Full-stack enterprise HR solution with modern architecture and scalable design.
+
+**Tech:** NestJS, PostgreSQL, Vue.js, TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Deep Learning Models
+Custom neural networks for computer vision, NLP, and time-series forecasting tasks.
+
+**Tech:** TensorFlow, PyTorch, Keras, Scikit-learn
+
+</td>
+<td width="50%">
+
+### 🌐 Full Stack Web Apps
+Modern, responsive web applications with clean UI/UX and robust backends.
+
+**Tech:** React, Next.js, Laravel, Tailwind CSS
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 What I'm Learning
 
-<img src="https://github-profile-trophy.vercel.app/?username=UdaraChamidu&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<p align="center">
+  <img src="https://img.shields.io/badge/🐳_Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_LLM_Fine--tuning-Advanced_AI-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄_Inertia.js-Modern_Stack-9553E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Deployment-Production-4285F4?style=for-the-badge" />
+</p>
+
+---
+
+## 📚 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Building Production-Ready AI Agents with LangChain
+- 🚀 Full Stack Development: NestJS + Vue.js Best Practices
+- 🤖 Fine-tuning LLMs: A Practical Guide
+- 🌐 Deploying AI Applications: From Local to Cloud
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] 🚀 Deploy 5+ production AI applications
+- [ ] 📝 Publish technical articles on AI/ML
+- [ ] 🤝 Contribute to open-source AI projects
+- [ ] 🎓 Complete advanced courses in MLOps
+- [ ] 💼 Build a comprehensive portfolio of AI solutions
+- [ ] 🌟 Speak at tech meetups or conferences
+
+---
+
+## 🏅 Achievements & Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Computer_Engineering-University_of_Jaffna-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Software_Engineer-Intern-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_AI/ML-Enthusiast-FF6F00?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 Next Up
 
-- Building **Agentic AI Applications**
-- Developing an **HR Management System** with **NestJS** & **PostgreSQL**.
-- Deepening knowledge in **Laravel**, **Inertia.js**, and **Vue.js**.
-- Fine tuning **LLMs** for production use  
-- Exploring **full-stack AI apps** with **modern deployment**
-- Deploying AI applications.
+- 🤖 Building **Agentic AI Applications**
+- 💼 Developing an **HR Management System** with **NestJS** & **PostgreSQL**
+- 📚 Deepening knowledge in **Laravel**, **Inertia.js**, and **Vue.js**
+- 🔧 Fine-tuning **LLMs** for production use  
+- 🌐 Exploring **full-stack AI apps** with **modern deployment**
+- 🚀 Deploying AI applications at scale
 
 ---
 
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/udara-herath-530006217">
+    <img src="https://img.shields.io/badge/LinkedIn-5A0FC8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chamiduudara32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7E3FF2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://udara-chamidu-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/UdaraChamidu">
+    <img src="https://img.shields.io/badge/GitHub-B37DF0?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 Profile Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UdaraChamidu&label=Profile%20Views&color=B37DF0&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/UdaraChamidu?label=Followers&style=for-the-badge&color=B37DF0" alt="GitHub Followers" />
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -109,9 +224,8 @@ I am currently working as a **Software Engineering Intern**, bridging the gap be
   <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Hard.;Build+with+Purpose."/>
 </p>
 
-
 <p align="center">
-  <strong>💜 Thanks for visiting! Let’s shape the future of AI together. 💜</strong>
+  <strong>💜 Thanks for visiting! Let's shape the future of AI together. 💜</strong>
 </p>
 
-<h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy codiing!</h4>
+<h4 align="center">⭐ If you like what you see, star a repo or say hi anytime. Happy coding!</h4>
