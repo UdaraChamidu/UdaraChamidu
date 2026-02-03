@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
-       width="400" height="400" alt="Profile Picture" />
+       width="700" height="600" alt="Profile Picture" />
 </p>
 
 <p align="center"> 
