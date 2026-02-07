@@ -11,7 +11,7 @@
 <h3 align="center">Computer Engineering Undergraduate | AI & ML Enthusiast | AI + Software Engineer Intern 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
+  <img src="https://github.com/user-attachments/assets/594c174f-1032-46e6-aa5f-a0287e3fed85" 
        width="500" height="400" alt="Profile Picture" />
 </p>
 
