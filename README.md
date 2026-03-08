@@ -138,14 +138,6 @@ Streamlined workflows and intelligent automation systems that save time and boos
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdaraChamidu&theme=tokyo-night&hide_border=true&line=B37DF0&point=B37DF0" />
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Hard.;Build+with+Purpose."/>
 </p>
