@@ -138,9 +138,22 @@ Streamlined workflows and intelligent automation systems that save time and boos
 
 ---
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Hard.;Build+with+Purpose."/>
+  <img src="https://github-readme-stats-beta-tan-32.vercel.app/api?username=UdaraChamidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-beta-tan-32.vercel.app/api/top-langs/?username=UdaraChamidu&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaraChamidu&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UdaraChamidu&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
 
 <p align="center">
   <strong>💜 Thanks for visiting! Let's shape the future of AI together. 💜</strong>
