@@ -1,4 +1,4 @@
-<!-- Dark Purple Hacker Theme -->
+ <!-- Dark Purple Hacker Theme -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Profile!+✨;Exploring+the+World+of+AI+%26+ML;Turning+Ideas+into+Code+🚀" alt="Welcome Animation" /> 
 </p>
