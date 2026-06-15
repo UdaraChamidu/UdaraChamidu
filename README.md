@@ -31,20 +31,20 @@ Hi, I'm **Udara Herath**, a Computer Engineering undergraduate at the University
 I specialize in building **AI powered systems, full-stack applications, and intelligent automation solutions**.
 
 I am currently working as:
-- 🧑‍💻 Software Engineer  
-- 🌍 Freelance AI & Web Developer (Upwork)  
-- 🧠 Independent AI Solution Builder  
+- Software Engineer  
+- Freelance AI & Web Developer (Upwork)  
+- Independent AI Solution Builder  
 
 ---
 
 ## 🚀 What I Build
 
-- 🧠 AI Chatbots & LLM Applications  
-- 🔍 RAG-based Knowledge Systems  
-- 🤖 Agentic AI Workflows  
-- 🎤 AI Voice & Automation Systems  
-- 🌐 Full Stack Web Applications  
-- ⚙️ Business Automation (n8n, APIs, workflows)  
+- AI Chatbots & LLM Applications  
+- RAG based Knowledge Systems  
+- Agentic AI Workflows  
+- AI Voice & Automation Systems  
+- Full Stack Web Applications  
+- Business Automation (n8n, APIs, workflows)  
 
 ---
 
@@ -103,12 +103,12 @@ I am currently working as:
 
 I provide AI & Web Development services on:
 
-- 🌍 Upwork Freelancer (AI Automation, Chatbots, Web Apps)
-- 🧠 Independent AI Solution Provider
+- Upwork Freelancer (AI Automation, Chatbots, Web Apps)
+- Independent AI Solution Provider
 
 ### Services:
 - AI Chatbot Development  
-- RAG-based Knowledge Systems  
+- RAG based Knowledge Systems  
 - AI Voice & Agent Systems  
 - Full-Stack Web Applications  
 - Workflow Automation (n8n, APIs, integrations)  
@@ -142,11 +142,11 @@ I provide AI & Web Development services on:
 
 ## 📫 Connect With Me
 
-- 🌍 Upwork: https://www.upwork.com/freelancers/herath
-- 💼 LinkedIn: www.linkedin.com/in/udara-herath-530006217
-- 🧠 GitHub: https://github.com/UdaraChamidu
-- 🌐 Portfolio: https://udarachamidu.site
-- 💜 Business: https://veloxdy.com
+- Upwork: https://www.upwork.com/freelancers/herath
+- LinkedIn: www.linkedin.com/in/udara-herath-530006217
+- GitHub: https://github.com/UdaraChamidu
+- Portfolio: https://udarachamidu.site
+- Business: https://veloxdy.com
 
 ---
 
