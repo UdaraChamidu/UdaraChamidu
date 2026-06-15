@@ -15,7 +15,7 @@ Computer Engineer | AI & ML Enthusiast | Software Engineering Intern | Freelance
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/594c174f-1032-46e6-aa5f-a0287e3fed85"
-       width="220"
+       width="500"
        style="border-radius: 50%; border: 3px solid #B37DF0;" />
 </p>
 
