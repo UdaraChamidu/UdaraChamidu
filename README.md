@@ -1,13 +1,13 @@
 <!-- Dark Purple Hacker Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Profile!+✨;AI+Engineer+%7C+Full-Stack+Developer;Freelancer+%7C+Upwork+AI+Solutions;Building+Intelligent+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Profile!+✨;AI+Engineer+%7C+Full-Stack+Developer;Upwork+Freelancer+%7C+AI+Solutions;Building+Intelligent+Systems+🚀" />
 </p>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" /> 
 </p>
 
-<h1 align="center">💻 I'm Udara Chamidu</h1>
+<h1 align="center">💻 I'm Udara Herath</h1>
 
 <h3 align="center">
 Computer Engineering Undergraduate | AI & ML Enthusiast | Software Engineering Intern | Freelance AI Developer 🚀
@@ -28,11 +28,10 @@ Computer Engineering Undergraduate | AI & ML Enthusiast | Software Engineering I
 ## 🌌 About Me
 
 Hi, I'm **Udara Herath**, a Computer Engineering undergraduate at the University of Jaffna, Sri Lanka.
-
 I specialize in building **AI-powered systems, full-stack applications, and intelligent automation solutions**.
 
 I am currently working as:
-- 🧑‍💻 Software Engineering Intern  
+- 🧑‍💻 Software Engineer  
 - 🌍 Freelance AI & Web Developer (Upwork)  
 - 🧠 Independent AI Solution Builder  
 
@@ -143,10 +142,11 @@ I provide AI & Web Development services on:
 
 ## 📫 Connect With Me
 
-- 🌍 Upwork: (add link here)
-- 💼 LinkedIn: (add link here)
-- 🧠 GitHub: https://github.com/YOUR_USERNAME
-- 🌐 Portfolio: (add link here)
+- 🌍 Upwork: [(add link here)](https://www.upwork.com/freelancers/herath)
+- 💼 LinkedIn: www.linkedin.com/in/udara-herath-530006217
+- 🧠 GitHub: https://github.com/UdaraChamidu
+- 🌐 Portfolio: [(add link here)](https://udarachamidu.site)
+- 💜 Business: https://veloxdy.com/
 
 ---
 
