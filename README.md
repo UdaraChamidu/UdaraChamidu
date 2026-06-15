@@ -10,7 +10,7 @@
 <h1 align="center">💻 I'm Udara Herath</h1>
 
 <h3 align="center">
-Computer Engineering Undergraduate | AI & ML Enthusiast | Software Engineering Intern | Freelance AI Developer 🚀
+Computer Engineer | AI & ML Enthusiast | Software Engineering Intern | Freelance AI Developer 🚀
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Computer Engineering Undergraduate | AI & ML Enthusiast | Software Engineering I
 ## 🌌 About Me
 
 Hi, I'm **Udara Herath**, a Computer Engineering undergraduate at the University of Jaffna, Sri Lanka.
-I specialize in building **AI-powered systems, full-stack applications, and intelligent automation solutions**.
+I specialize in building **AI powered systems, full-stack applications, and intelligent automation solutions**.
 
 I am currently working as:
 - 🧑‍💻 Software Engineer  
@@ -43,7 +43,7 @@ I am currently working as:
 - 🔍 RAG-based Knowledge Systems  
 - 🤖 Agentic AI Workflows  
 - 🎤 AI Voice & Automation Systems  
-- 🌐 Full-Stack Web Applications  
+- 🌐 Full Stack Web Applications  
 - ⚙️ Business Automation (n8n, APIs, workflows)  
 
 ---
@@ -117,9 +117,9 @@ I provide AI & Web Development services on:
 
 ## 🚀 Currently Working On
 
-- AI-powered HR Management System  
+- AI powered HR Management System  
 - Agentic AI workflows  
-- Production-level automation systems  
+- Production level automation systems  
 - Freelance AI solutions for clients  
 
 ---
@@ -142,14 +142,14 @@ I provide AI & Web Development services on:
 
 ## 📫 Connect With Me
 
-- 🌍 Upwork: [(add link here)](https://www.upwork.com/freelancers/herath)
+- 🌍 Upwork: https://www.upwork.com/freelancers/herath
 - 💼 LinkedIn: www.linkedin.com/in/udara-herath-530006217
 - 🧠 GitHub: https://github.com/UdaraChamidu
-- 🌐 Portfolio: [(add link here)](https://udarachamidu.site)
-- 💜 Business: https://veloxdy.com/
+- 🌐 Portfolio: https://udarachamidu.site
+- 💜 Business: https://veloxdy.com
 
 ---
 
 <p align="center">
-💜 Building intelligent systems, automation, and AI solutions that solve real-world problems.
+💜 Building intelligent systems, automation, and AI solutions that solve real world problems.
 </p>
