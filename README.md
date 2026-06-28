@@ -131,7 +131,7 @@ I provide AI & Web Development services on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaraChamidu&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=UdaraChamidu&theme=tokyonight" />
 </p>
 
 <p align="center">
